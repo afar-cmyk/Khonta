@@ -1,0 +1,22 @@
+{
+  "name": "khonta",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@kobalte/core": "^0.13.0",
+    "@motionone/solid": "^10.16.4",
+    "dexie": "^4.0.0",
+    "solid-js": "^1.8.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vite-plugin-pwa": "^0.19.0",
+    "vite-plugin-solid": "^2.8.0"
+  }
+}

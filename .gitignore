@@ -1,0 +1,10 @@
+node_modules
+.agents/
+.agent/
+_agents/
+_agent/
+skills/
+.gemini/
+.cursor/
+.cursorrules
+antigravity/
